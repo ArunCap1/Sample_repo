@@ -18,6 +18,5 @@ class SampleApp {
 		System.out.println("SampleApp Chaning something ") ;
 		System.out.println("SampleApp Chaning something ") ;
 		System.out.println("SampleApp Chaning something ") ;
-		
 	}
 }
