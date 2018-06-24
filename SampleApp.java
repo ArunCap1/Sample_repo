@@ -24,6 +24,6 @@ class SampleApp {
 		System.out.println("SampleApp Chaning samething ") ;
 		System.out.println("SampleApp Chaning samething ") ;   
 		System.out.println("SampleApp Chaning samething ") ;
-		System.out.println("Trying to merge in repository");
+		System.out.println("Trying to change in repository");
 	}
 }
